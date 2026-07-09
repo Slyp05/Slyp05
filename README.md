@@ -10,7 +10,7 @@ I build developer-facing packages and tools, with a focus on clean APIs and a go
 
 My serious projects are either released commercially or kept in private repos. My shipped packages, with full documentation, live here:
 
-**→ [justetools.net](https://justetools.net)**
+[justetools.net](https://justetools.net)
 
 ---
 
