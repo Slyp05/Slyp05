@@ -10,7 +10,7 @@ I build the packages, tools, and systems other developers rely on, with a focus 
 
 Most of what I build is either shipped commercially or sits in private repos, so this profile is the tip of the iceberg. The public side of my work, fully documented and released packages, lives here:
 
-**  [justetools.net](https://justetools.net)**
+  [justetools.net](https://justetools.net)
 
 ---
 
